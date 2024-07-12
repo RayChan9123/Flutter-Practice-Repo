@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+A To-do List Flutter project.
 
 ## Getting Started
 
