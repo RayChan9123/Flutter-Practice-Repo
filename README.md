@@ -1,19 +1,8 @@
 # flutter_application_1
 
-A To-do List Flutter project.
+A To-do List Flutter project created by following  "Mitch Koko" youtube video.
+Reference: https://youtu.be/TclK5gNM_PM?si=Qn1ATJ7C-T1DwOM_
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 ![alt text](image.png)
 
 ![alt text](image-1.png)
